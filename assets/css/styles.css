@@ -129,6 +129,8 @@ header nav li {
   height: 100%;
   z-index: -1;
   background-color: #80a3db;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .hero h1 {
